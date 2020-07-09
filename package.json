@@ -9,7 +9,11 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "vue": "^2.6.11"
+    "dateformat": "^3.0.3",
+    "echarts": "^4.8.0",
+    "vue": "^2.6.11",
+    "vue-echarts": "^5.0.0-beta.0",
+    "vuejs-logger": "1.5.4"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.4.0",
